@@ -15,6 +15,10 @@
             Desarrollo backend con Laravel
         </h1>
 
+        <h2>
+            Ethankabalzt estuvo aqui
+        </h2>
+
         <p class="hero__description">
             Esta aplicación servirá como punto de partida para aprender arquitectura MVC,
             Blade, Eloquent, validación, pruebas, control de versiones y despliegue.
